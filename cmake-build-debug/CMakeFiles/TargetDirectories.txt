@@ -1,0 +1,3 @@
+C:/Users/FadeCloud/Documents/C++ Projects/0-get-started-AlekseyTitov99/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/FadeCloud/Documents/C++ Projects/0-get-started-AlekseyTitov99/cmake-build-debug/CMakeFiles/0_get_started_AlekseyTitov99.dir
+C:/Users/FadeCloud/Documents/C++ Projects/0-get-started-AlekseyTitov99/cmake-build-debug/CMakeFiles/edit_cache.dir
